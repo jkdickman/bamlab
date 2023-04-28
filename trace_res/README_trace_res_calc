@@ -1,0 +1,8 @@
+Run python3 trace_res.py to calculate 
+the resistance of each trace
+input dimensions under #trace measurements
+Results that will print:
+SOI_only_res for trace 1_3 of bridge  5     : x kOhms
+SOI_only_res for trace 1_3 of bridge  5 +Au : x kOhms
+                          difference        : x  kOhms
+SOI_only_res for trace 2_4 of bridge  5     : x  kOhms

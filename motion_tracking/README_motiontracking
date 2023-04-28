@@ -1,0 +1,11 @@
+run python3 pixel-tracker.py and select the mp4 file to track.
+
+Python window with video may not be at the forefront, may need to retrieve window.
+
+Click on two points:
+first the center of rotation,
+second a point along the
+edge of the rotor.
+
+Radius, distance second point travels and angle of rotation
+will print in terminal. 
