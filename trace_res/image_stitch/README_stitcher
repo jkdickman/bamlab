@@ -1,0 +1,5 @@
+run python3 image_stitcher1.py while the .py file is in 
+the folder with the JPEG images to be stitched
+There cannot be another file named "stitched_image.jpg" in the folder
+
+image_stitcher1.py needs high variation for the images to stitch
