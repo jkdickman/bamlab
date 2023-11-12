@@ -1,0 +1,13 @@
+run python3 pixel-tracker.py and select the mp4 file to track.
+
+Python window with video may not be at the forefront, may need to retrieve window.
+
+Click on two points:
+	-First the center of rotation,
+	-Second a point along the edge of the rotor.
+		+Best to choose the point of rotation at an easily distinguishable point.
+		Have had best tracking with closing the outer most circle of the rotor, right at the
+		edge of the hole and the material. 
+
+Radius, distance second point travels and angle of rotation
+will print in terminal. 
