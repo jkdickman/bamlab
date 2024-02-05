@@ -1,0 +1,11 @@
+# YAML file for custom dataset
+train: /home/jdickman/mmg/bamlab/mm_gnc/dataset/train  # Path to training images
+val: /home/jdickman/mmg/bamlab/mm_gnc/dataset/val      # Path to validation images
+test: /home/jdickman/mmg/bamlab/mm_gnc/dataset/test    # Optional: Path to test images
+
+# Number of classes
+nc: 1  # Example: 3
+
+# Class names
+names: ['drones']  # Replace with your class names
+
